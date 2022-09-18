@@ -1,1 +1,2 @@
-﻿Match.GetInstance()!.SpawnGame();
+Console.Clear();
+Match.GetInstance()!.SpawnGame();
